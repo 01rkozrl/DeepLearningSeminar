@@ -29,3 +29,9 @@
   > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/52933f885a41ae201dfa5942125d26f5719e6db4/2023_Paper_Reviews/Unsupervised%20Anomaly%20Detection%20with%20Generative%20Adversarial%20Networks%20to%20Guide%20Marker%20Discovery.pdf)**
   > + **Presentor**: Miju Kim
   > + **Date**: February 15, 2023
+
+  * **06: Collaborative Feature Maps of Networks and Hosts for AI-driven Intrusion Detection**
+  > + **Original Papers**: (https://arxiv.org/ftp/arxiv/papers/2208/2208.05085.pdf)
+  > + **[Presentation](https://github.com/kukeumen/DeepLearningSeminar/blob/52933f885a41ae201dfa5942125d26f5719e6db4/2023_Paper_Reviews/Unsupervised%20Anomaly%20Detection%20with%20Generative%20Adversarial%20Networks%20to%20Guide%20Marker%20Discovery.pdf)**
+  > + **Presentor**: YeonJae Lee
+  > + **Date**: February 21, 2023
